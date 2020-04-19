@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Progress from './components/Progress';
-import './MusicPlayer.scss';
 
 const formatTime = time => {
   /* eslint no-restricted-globals: off */

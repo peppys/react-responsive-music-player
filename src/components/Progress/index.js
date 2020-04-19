@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import './index.scss';
 
 export default class Progress extends Component {
   static propTypes = {
